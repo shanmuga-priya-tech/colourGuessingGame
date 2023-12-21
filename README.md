@@ -27,6 +27,12 @@ Incorrect Answer: Play a distinct sound for every incorrect answer.
 
 Timer Expiry: Play a specific sound when the timer runs out.
 
+# glimpse of game:
+Game Start: ![game start](https://github.com/shany-shan/colourGuessingGame/blob/c53c2b1f4dda1557de0914fac391c31decc341ff/game%20img/game-start.png)
+Correct Answer:  ![correct answer](https://github.com/shany-shan/colourGuessingGame/blob/c53c2b1f4dda1557de0914fac391c31decc341ff/game%20img/correct.png)
+Wrong Answer: ![wrong answer](https://github.com/shany-shan/colourGuessingGame/blob/c53c2b1f4dda1557de0914fac391c31decc341ff/game%20img/wrong.png)
+Time over:  ![Time over](https://github.com/shany-shan/colourGuessingGame/blob/c53c2b1f4dda1557de0914fac391c31decc341ff/game%20img/time-over.png)
+
 # How to Run
 Clone the repository to your local machine.
 
