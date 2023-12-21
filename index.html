@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess Colour</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Preahvihear&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <header>
+        <h1 class="heading">Guess The Colour</h1>
+        <div class="nav">
+            <button class="btn">Play Again</button>
+            <p class="timer">Timer: </p>
+        </div>    
+    </header>
+    
+    <main>
+        <section class="left_container">
+            <h1>Click The Correct Colour</h1>
+            <div class="colour"></div>
+        </section>
+        <section class="right_container">
+            <div class="guess_container">
+                <h1 class="title">Guess Me</h1>
+                <p class="jumbled_words">color</p>
+            </div>
+            <div class="score_container">
+                <p class="message">Start guessing...</p>
+                <p class="report">Your guess is: <span class="result"></span></p>
+                <p class="label-score">💯 Score: <span class="score">0</span></p>
+                <p class="label-highscore">
+                🥇 Highscore: <span class="highscore">0</span>
+                </p>
+            </div>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
